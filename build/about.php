@@ -38,7 +38,7 @@
         <div class="text-center bg-white p-6 rounded-lg shadow-md hover:bg-black transition duration-300 group hover:text-white">
             <i class="fa fa-book text-4xl"></i>
             <h2 class="xl:text-3xl text-2xl pt-2">Achievement</h2>
-            <p class="2xl:text-lg lg:text-base text-sm leading-6 lg:leading-7 2xl:leading-8 text-[#666666] pt-2">We want to help people everywhere learn valuable digital skills, no matter where they live or what their background is. Our goal is to make high-quality online education easy to access so anyone can grow, succeed, and shape their future in technology.</p>
+            <p class="2xl:text-lg lg:text-base text-sm leading-6 lg:leading-7 2xl:leading-8 text-[#666666] pt-2">Our vision is to empower individuals worldwide by providing accessible, high-quality digital education. We aim to break barriers of location and background, making advanced tech skills available to everyone.</p>
         </div>
 
         <div class="text-center bg-white p-6 rounded-lg shadow-md hover:bg-black transition duration-300 group hover:text-white">
