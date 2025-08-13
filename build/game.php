@@ -11,11 +11,6 @@
 
 
 
-    <section class="h-96 bg-fixed bg-center bg-no-repeat bg-cover" style="background-image: url('./assets/img/gamebanner.webp')">
-  <div class="h-96 flex items-center justify-center bg-black bg-opacity-80">
-    <h1 class="md:text-4xl text-2xl font-bold text-white">Game Development</h1>
-  </div>
-</section>
 
 
 <section class="xl:py-20 py-10 xl:px-20 lg:px-10 px-5">
