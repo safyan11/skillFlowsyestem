@@ -76,7 +76,33 @@
 
 
 <!-- courses overview  -->
+<section class="xl:pb-20 pb-10 xl:px-20 lg:px-10 px-5">
+    <div class="lg:w-3/5 w-full">
+    <div>
+        <h1 class="text-black xl:text-4xl md:text-3xl text-2xl font-semibold">Course Overview</h1>
+        <p class="2xl:text-lg text-base pt-4 text-[#666666] xl:leading-7 leading-6">The development of digital marketing is inseparable from technology development. One of the first key events happened in 1971, when Ray Tomlinson sent the first email, and his technology set the platform to allow people to send and receive files through different machines. However, the more recognizable period as being the start of Digital Marketing is 1990 as this was where the Archie search engine was created as an index for FTP sites. In the 1980s, the storage capacity of computers was already big enough to store huge volumes of customer information. Companies started choosing online techniques, such as database marketing, rather than limited list broker. These kinds of databases allowed companies to track customers' information more effectively, thus transforming the relationship between buyer and seller.<br> <br>
 
+        Among Web professionals, "Web development" usually refers to the main non-design aspects of building Web sites: writing markup and coding. Web development may use content management systems (CMS) to make content changes easier and available with basic technical skills. For larger organizations and businesses, Web development teams can consist of hundreds of people (Web developers) and follow standard methods like Agile methodologies while developing Web sites. Smaller organizations may only require a single permanent or contracting developer, or secondary assignment to related job positions such as a graphic designer or information systems technician.<br> <br>
+
+        Digital marketing activity is still growing across the world according to the headline global marketing index. A study published in September 2018, found that global outlays on digital marketing tactics are approaching $100 billion. Digital media continues to rapidly grow. While the marketing budgets are expanding, traditional media is declining. Digital media helps brands reach consumers to engage with their product or service in a personalized way. Five areas, which are outlined as current industry practices that are often ineffective are prioritizing clicks, balancing search and display, understanding mobiles, targeting, viewability, brand safety and invalid traffic, and cross-platform measurement.</p>
+    </div>
+    <div class="py-6">
+    <hr>
+    </div>
+     <div>
+                 <h1 class="text-black xl:text-4xl md:text-3xl text-2xl font-medium">What You Will Learn In This Course</h1>
+                 <div class="pt-4">
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="far fa-check-circle text-black"></i> &nbsp; Breif introduction of Digital marketing</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="far fa-check-circle text-black"></i> &nbsp; Importance of Digital marketing</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="far fa-check-circle text-black"></i> &nbsp;  Digital marketing tool and technique</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="far fa-check-circle text-black"></i> &nbsp; languages of Digital marketing</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="far fa-check-circle text-black"></i> &nbsp; Practice work of course</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="far fa-check-circle text-black"></i> &nbsp; Framework for Digital marketing</p>
+               
+                 </div>
+            </div>
+    </div>
+</section>
 
 
 <?php require_once "inc/footer.php"; ?>
