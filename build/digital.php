@@ -8,37 +8,15 @@
 
 
 <!-- parralex  -->
- 
+   <section class="h-96 bg-fixed bg-center bg-no-repeat bg-cover" style="background-image: url('./assets/img/services.jpg')">
+  <div class="h-96 flex items-center justify-center bg-black bg-opacity-60">
+    <h1 class="md:text-4xl text-2xl font-bold text-white">Digital Markiting</h1>
+  </div>
+</section>
 
 <!-- included section  -->
 
-<section class="xl:py-20 py-10 xl:px-20 lg:px-10 px-5">
-    <div class="flex flex-col lg:flex-row xl:gap-20 gap-10">
-        <div class="lg:w-2/3 w-full">
-            <img src="./assets/img/digital.jpeg" class="rounded-2xl w-full" alt="">
-        </div>
-        <div class="lg:w-1/3 w-full">
-            <div>
-                 <h1 class="text-black xl:text-4xl md:text-3xl text-2xl font-medium">This Course Include:</h1>
-                 <div class="pt-4">
-                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-video text-black"></i> &nbsp; 52 hours vedios</p>
-                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-newspaper text-black"></i> &nbsp;  75 articles</p>
-                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-cloud-arrow-down text-black"></i> &nbsp;  Downloadable resources</p>
-                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-infinity text-black"></i> &nbsp; Full life time access</p>
-                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-mobile-screen-button text-black"></i> &nbsp; Access on laptop and mobile</p>
-                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-paperclip text-black"></i> &nbsp; Assingments</p>
-                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-trophy text-black"></i> &nbsp; Certificate of complation</p>
-                 </div>
 
-                  <div class="pt-10">
-          <a href="./signup.php">
-      <button class="bg-black py-2 px-6 text-white hover:bg-white hover:text-black border border-black">Enroll Now</button>
-      </a>
-    </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <!-- courses  -->
 <section class="xl:py-20 py-10 xl:px-20 lg:px-10 px-5">
