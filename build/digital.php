@@ -16,37 +16,36 @@
 
 <!-- included section  -->
 
-
-
-<!-- courses  -->
 <section class="xl:py-20 py-10 xl:px-20 lg:px-10 px-5">
-    <div class="lg:w-3/5 w-full">
-    <div>
-        <h1 class="text-black xl:text-5xl md:text-4xl text-2xl font-semibold pb-4">Digital Markiting Course
-</h1>
-<span class="fa fa-star checked text-orange-500"></span>
-<span class="fa fa-star checked text-orange-500"></span>
-<span class="fa fa-star checked text-orange-500"></span>
-<span class="fa fa-star text-orange-500"></span>
-<span class="fa fa-star"></span>
-<p class="2xl:text-lg text-base pt-4 text-[#666666] xl:leading-7 leading-6">Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.</p>
-    </div>
-
-    <div class="pt-10">
-        <h1 class="text-black xl:text-4xl md:text-3xl text-2xl font-semibold">Instructor</h1>
-        <div class="flex items-center gap-4 pt-6">
-            <img src="./assets/images/team1.png" class="w-16 " alt="">
+    <div class="flex flex-col lg:flex-row xl:gap-20 gap-10">
+        <div class="lg:w-2/3 w-full">
+            <img src="./assets/img/digital.jpeg" class="rounded-2xl w-full" alt="">
+        </div>
+        <div class="lg:w-1/3 w-full">
             <div>
-                <h2 class="text-black 2xl:text-xl text-lg font-semibold">Ali Ahmad</h2>
-                <p class="text-base text-[#666666]">Digital markiter at Google</p>
+                 <h1 class="text-black xl:text-4xl md:text-3xl text-2xl font-medium">This Course Include:</h1>
+                 <div class="pt-4">
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-video text-black"></i> &nbsp; 52 hours vedios</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-newspaper text-black"></i> &nbsp;  75 articles</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-cloud-arrow-down text-black"></i> &nbsp;  Downloadable resources</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-infinity text-black"></i> &nbsp; Full life time access</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-mobile-screen-button text-black"></i> &nbsp; Access on laptop and mobile</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-paperclip text-black"></i> &nbsp; Assingments</p>
+                 <p class="xl:text-lg text-base pt-4 text-[#666666]"><i class="fa-solid fa-trophy text-black"></i> &nbsp; Certificate of complation</p>
+                 </div>
+
+                  <div class="pt-10">
+          <a href="./signup.php">
+      <button class="bg-black py-2 px-6 text-white hover:bg-white hover:text-black border border-black">Enroll Now</button>
+      </a>
+    </div>
             </div>
         </div>
     </div>
-    <div class="pt-5">
-    <hr>
-    </div>
-    </div>
 </section>
+
+<!-- courses  -->
+
 
 
 <!-- courses overview  -->
