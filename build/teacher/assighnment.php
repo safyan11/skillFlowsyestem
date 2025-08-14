@@ -30,9 +30,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['upload_assignment']))
         } else {
             $upload_error = "Failed to move uploaded file.";
         }
-    } else {
-        $upload_error = "Please provide a title and select a file.";
-    }
+    } 
 }
 
 // Fetch assignments uploaded by this teacher
