@@ -2,7 +2,7 @@
     <aside id="sidebar" class="fixed inset-y-0 left-0 z-20 w-64 bg-white border-r border-gray-200 px-4 py-6 transform -translate-x-full transition-transform duration-300 ease-in-out md:translate-x-0">
       <div class="items-center mb-8">
 
-     
+        <img src="../assets/img/logodashboard.png" class="w-36" alt="">
 
       </div>
       <div class="space-y-2">
