@@ -54,7 +54,7 @@
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
     
-    <!-- Testimonial Card -->
+    
     <div class="bg-white p-6 rounded-lg shadow-md hover:bg-black transition duration-300 group">
       <p class="text-[#666666] group-hover:text-[#666666] mb-6 text-sm">
         "Learn2Earn Hub made me a confident frontend developer. The instructors are amazing and the content is very practical!"
