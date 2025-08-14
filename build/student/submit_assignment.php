@@ -75,7 +75,11 @@ if ($result && $result->num_rows > 0) {
     $stmt->execute();
     $stmt->close();
 
-}    $conn->query($sql_insert);
+} else {
+    // Handle error if needed
+    echo "Error inserting submission: " . $conn->error;
+}
+    $conn->query($sql_insert);
     
 }
 
